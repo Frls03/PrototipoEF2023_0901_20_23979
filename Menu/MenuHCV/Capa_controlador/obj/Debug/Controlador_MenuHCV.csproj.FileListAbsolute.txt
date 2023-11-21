@@ -1,0 +1,6 @@
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\Backup bancos\modulo_bancos\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\bin\Debug\Controlador_MenuHCV.dll
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\Backup bancos\modulo_bancos\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\bin\Debug\Controlador_MenuHCV.pdb
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\Backup bancos\modulo_bancos\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\obj\Debug\Controlador_MenuHCV.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\Backup bancos\modulo_bancos\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\obj\Debug\Controlador_MenuHCV.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\Backup bancos\modulo_bancos\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\obj\Debug\Controlador_MenuHCV.dll
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\Backup bancos\modulo_bancos\Codigo\Modulos\Menu\MenuHCV\Capa_controlador\obj\Debug\Controlador_MenuHCV.pdb

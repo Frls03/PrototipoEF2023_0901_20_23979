@@ -1,0 +1,6 @@
+C:\Users\Luis\Desktop\EF analisis 2\PrototipoEF2023_0901_20_23979\Prototipo\Prototipo\Modelo\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\Luis\Desktop\EF analisis 2\PrototipoEF2023_0901_20_23979\Prototipo\Prototipo\Modelo\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\Luis\Desktop\EF analisis 2\PrototipoEF2023_0901_20_23979\Prototipo\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\EF analisis 2\PrototipoEF2023_0901_20_23979\Prototipo\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\EF analisis 2\PrototipoEF2023_0901_20_23979\Prototipo\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.dll
+C:\Users\Luis\Desktop\EF analisis 2\PrototipoEF2023_0901_20_23979\Prototipo\Prototipo\Modelo\obj\Debug\Modelo_PrototipoMenu.pdb

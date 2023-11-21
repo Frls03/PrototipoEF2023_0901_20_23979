@@ -1,0 +1,6 @@
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\Backup bancos\modulo_bancos\Codigo\Modulos\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.dll
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\Backup bancos\modulo_bancos\Codigo\Modulos\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.pdb
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\Backup bancos\modulo_bancos\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\Backup bancos\modulo_bancos\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\Backup bancos\modulo_bancos\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.dll
+C:\Users\Luis\Desktop\8vo semestre\Analisis 2\bancos\Backup bancos\modulo_bancos\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.pdb
